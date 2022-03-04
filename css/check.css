@@ -1,0 +1,12 @@
+.container{
+    min-height: 87vh;
+}
+.heading{
+    text-align: center;
+}
+.result{
+    text-align: center;
+}
+.main-card{
+    margin-top:9rem;
+}
